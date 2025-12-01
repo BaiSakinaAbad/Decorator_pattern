@@ -1,4 +1,4 @@
-# Brewtiful — Coffee Order Decorator ˗ˏˋ☕ˎˊ˗
+# Brewtiful — Coffee Order Decorator SeatWork ˗ˏˋ☕ˎˊ˗
 
 Implementation of the Decorator pattern for a coffee shop. Start with a base coffee  (`BlackCoffee` and `DecafCoffee`) and add any combination of decorators (e.g., `Milk`, `CaramelSyrup`) to build an order's description and cost dynamically.
 
@@ -14,7 +14,6 @@ System.out.println(order.getDescription()); // Black Coffee, Milk, Caramel Syrup
 System.out.println(order.getCost());        // 165.0
 ```
 
-    /\_/\
-  /  • - • \
-/ づ ☕ づ  *Gives coffee*
-
+₊˚.🎧 ✩｡☕ 🤎
+- ABAD
+- 3BSCS-1
