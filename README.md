@@ -14,5 +14,7 @@ System.out.println(order.getDescription()); // Black Coffee, Milk, Caramel Syrup
 System.out.println(order.getCost());        // 165.0
 ```
 
-This project demonstrates flexible composition of features at runtime using the Decorator pattern. ☕
+    /\_/\
+  /  • - • \
+/ づ ☕ づ  *Gives coffee*
 
